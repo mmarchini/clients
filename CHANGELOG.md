@@ -1,3 +1,17 @@
+<a name="5.0.0"></a>
+## 5.0.0 (2020-12-14)
+
+
+#### Bug Fixes
+
+* **ci:** fix syntax errors on commitlint ([9b7c69f6](https://github.com/restify/clients.git/commit/9b7c69f6))
+
+
+#### Features
+
+* drop engine field on package.json ([735467c7](https://github.com/restify/clients.git/commit/735467c7))
+
+
 <a name="3.0.0"></a>
 ## [4.0.0](https://www.github.com/restify/clients/compare/v3.0.0...v4.0.0) (2020-09-04)
 
