@@ -1,3 +1,21 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [4.1.0](https://github.com/restify/clients/compare/v4.0.0...v4.1.0) (2020-12-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* to all dependencies of `restify-clients`. The `engine`
+field was originally added in this project to be informative, not a
+strict restriction. Drop it to prevent unwanted breaking changes on
+other packages.
+
+### Features
+
+* drop engine field on package.json ([7ae13cf](https://github.com/restify/clients/commit/7ae13cfb8929dae5893fc05cbe2b7f09f149c667))
+
 <a name="3.0.0"></a>
 ## [4.0.0](https://www.github.com/restify/clients/compare/v3.0.0...v4.0.0) (2020-09-04)
 
